@@ -11,5 +11,5 @@ spec:
       values:
       - pacman 
   componentKinds:
-  - group: app.ibm.com/v1alpha1
+  - group: apps.open-cluster-management.io
     kind: Subscription
